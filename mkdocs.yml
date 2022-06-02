@@ -1,0 +1,9 @@
+site_name: KISS
+site_url: https://example.com/
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs    
+    
