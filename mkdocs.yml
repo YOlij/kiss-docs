@@ -5,7 +5,9 @@ nav:
     - Home: 'index.md'
     - About: 'about.md'
 
-theme: readthedocs
+theme:
+    name: readthedocs
+    locale: fr
 
 repo_url: https://github.com/YOlij/kiss-docs/
     
