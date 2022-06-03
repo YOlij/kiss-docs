@@ -7,7 +7,6 @@ nav:
 
 theme:
     name: readthedocs
-    locale: fr
 
 repo_url: https://github.com/YOlij/kiss-docs/
     
